@@ -1,0 +1,19 @@
+.bannar{
+    background-image: url("../../img/banner-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    width: 100%;
+}
+
+.title-main{
+    font-size:50px;
+    font-weight: 900;
+    line-height: 70px;
+}
+.button{
+    border-radius: 20px;
+}
+.button:hover{
+    border:2px solid #27324e;
+}

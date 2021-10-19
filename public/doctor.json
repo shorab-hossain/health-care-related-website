@@ -1,0 +1,43 @@
+[
+    {
+        "id":"1",
+        "img":"https://demo.web3canvas.com/themeforest/medenin/images/team3.jpg",
+        "name":"Doctor Mary Joe",
+        "title":"Cardiolojist Specailiust"
+    },
+
+    {
+        "id":"2",
+        "img":"https://demo.web3canvas.com/themeforest/medenin/images/team4.jpg",
+        "name":"Thomas Jak",
+        "title":"Hearts Specailiust"
+    },
+
+    {
+        "id":"3",
+        "img":"https://demo.web3canvas.com/themeforest/medenin/images/team5.jpg",
+        "name":"Harbert Jeo",
+        "title":"Brain Specailiust"
+    },
+
+    {
+        "id":"4",
+        "img":"https://demo.web3canvas.com/themeforest/medenin/images/team1.jpg",
+        "name":"Helina",
+        "title":"liber Specailiust"
+    },
+
+    {
+        "id":"5",
+        "img":"https://demo.web3canvas.com/themeforest/medenin/images/team2.jpg",
+        "name":"jakma sir",
+        "title":"Genetic Specailiust"
+    },
+
+    {
+        "id":"6",
+        "img":"https://demo.web3canvas.com/themeforest/medenin/images/team5.jpg",
+        "name":" Mary Joe",
+        "title":"GastoLiver Specailiust"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id":"1",
+        "img":"https://demo.web3canvas.com/themeforest/medenin/images/service-icon3.png",
+        "title":"Allegic Issue",
+         "describtion":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
+         
+    },
+    {
+        "id":"2",
+        "img":"https://demo.web3canvas.com/themeforest/medenin/images/service-icon1.png",
+        "title":"Dental Care",
+         "describtion":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
+         
+    },
+    {
+        "id":"3",
+        "img":"https://demo.web3canvas.com/themeforest/medenin/images/service-icon2.png",
+        "title":"Eye Care",
+         "describtion":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
+         
+    },
+    {
+        "id":"4",
+        "img":"https://demo.web3canvas.com/themeforest/medenin/images/service-icon3.png",
+        "title":"Blood problem",
+         "describtion":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
+         
+    },
+    {
+        "id":"5",
+        "img":"https://demo.web3canvas.com/themeforest/medenin/images/service-icon1.png",
+        "title":"Hearts Problem",
+         "describtion":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
+         
+    },
+    {
+        "id":"6",
+        "img":"https://demo.web3canvas.com/themeforest/medenin/images/service-icon2.png",
+        "title":"Brain Problem",
+         "describtion":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
+         
+    }
+]
